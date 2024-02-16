@@ -7,7 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="katalog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="korzina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="registration.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="tovar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="katalog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="korzina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="registration.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="tovar.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
