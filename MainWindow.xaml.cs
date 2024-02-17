@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore.Diagnostics;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,15 @@ namespace praktikaMAGAZ
         public MainWindow()
         {
             InitializeComponent();
+        }
+        
+        private void enter_Click(object sender, RoutedEventArgs e)
+        {
+           
+            katalog ka = new katalog();
+            this.Hide();
+            ka.Show();
+            
         }
     }
 }
