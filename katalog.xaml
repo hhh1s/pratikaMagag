@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:praktikaMAGAZ"
         mc:Ignorable="d"
+<<<<<<< HEAD
         Title="katalog" Height="450" Width="800" WindowState="Maximized">
     <Grid  Name="dd">
         <Grid.RowDefinitions>
@@ -17,5 +18,10 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
+=======
+        Title="katalog" Height="450" Width="800">
+    <Grid>
+        
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d
     </Grid>
 </Window>

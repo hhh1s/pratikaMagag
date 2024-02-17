@@ -14,10 +14,14 @@ namespace praktikaMAGAZ
 
         public int Count { get; set; }
 
+<<<<<<< HEAD
         public double Cost { get; set; }
 
         public string Image { get; set; }
 
         public string Opisanie { get; set; }
+=======
+        public double cost { get; set; }
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d
     }
 }

@@ -68,6 +68,7 @@ C:\Users\student\Desktop\praktikaMAGAZ\obj\Debug\net7.0-windows\refint\praktikaM
 C:\Users\student\Desktop\praktikaMAGAZ\obj\Debug\net7.0-windows\praktikaMAGAZ.pdb
 C:\Users\student\Desktop\praktikaMAGAZ\obj\Debug\net7.0-windows\praktikaMAGAZ.genruntimeconfig.cache
 C:\Users\student\Desktop\praktikaMAGAZ\obj\Debug\net7.0-windows\ref\praktikaMAGAZ.dll
+<<<<<<< HEAD
 E:\praktikaMAGAZ\bin\Debug\net7.0-windows\praktikaMAGAZ.exe
 E:\praktikaMAGAZ\bin\Debug\net7.0-windows\praktikaMAGAZ.deps.json
 E:\praktikaMAGAZ\bin\Debug\net7.0-windows\praktikaMAGAZ.runtimeconfig.json
@@ -138,3 +139,5 @@ E:\praktikaMAGAZ\obj\Debug\net7.0-windows\refint\praktikaMAGAZ.dll
 E:\praktikaMAGAZ\obj\Debug\net7.0-windows\praktikaMAGAZ.pdb
 E:\praktikaMAGAZ\obj\Debug\net7.0-windows\praktikaMAGAZ.genruntimeconfig.cache
 E:\praktikaMAGAZ\obj\Debug\net7.0-windows\ref\praktikaMAGAZ.dll
+=======
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d

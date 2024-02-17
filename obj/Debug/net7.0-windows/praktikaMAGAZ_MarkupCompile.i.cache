@@ -9,7 +9,11 @@ praktikaMAGAZ
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+<<<<<<< HEAD
 E:\praktikaMAGAZ\App.xaml
+=======
+C:\Users\student\Desktop\praktikaMAGAZ\App.xaml
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d
 51124273556
 
 15-646743947

@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 ﻿using Microsoft.Identity.Client;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics.Metrics;
+=======
+﻿using System;
+using System.Collections.Generic;
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +26,7 @@ namespace praktikaMAGAZ
     /// </summary>
     public partial class katalog : Window
     {
+<<<<<<< HEAD
         int count = 0;
         int columns = 0;
         int row = 0;
@@ -62,6 +68,11 @@ namespace praktikaMAGAZ
                 columns++;
                 count++;
             }
+=======
+        public katalog()
+        {
+            InitializeComponent();
+>>>>>>> cd381131f7feaafe8fec7316249687a03d844f7d
         }
     }
 }
